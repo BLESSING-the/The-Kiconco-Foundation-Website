@@ -1,0 +1,19 @@
+header{
+    text-align: center;
+} 
+
+body{
+    color:navy;
+    text-align: center;
+    background: transparent;
+    background-color: chocolate;
+}
+
+li{
+    font-style: italic;
+    color:#000000;
+}
+
+address{
+    text-align: left;
+}
